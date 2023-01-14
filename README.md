@@ -35,7 +35,7 @@ DHT11<br>
 - first you need to connect ESP8266 with DHT11 (pin 0) <br>
 - install the code on your carte <br>
 - Create a Adafruit Dashboard <br>
-- Create 2 Block (gauge type) one for temperateur and other for humidity  <br>
+- Create 2 Block (gauge type) one for temperateur and the other for humidity  <br>
 - change the ssid and password <br>
 - change the username and put your key <br>
 - copy the path of your feed temperateur <br>
